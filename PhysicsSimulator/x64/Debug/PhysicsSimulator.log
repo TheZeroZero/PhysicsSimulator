@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\Constants.h(6,57): warning C4244: 'initializing': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\Constants.h(6,28): warning C4244: 'initializing': conversion from 'Uint64' to 'const int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(52,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(73,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(74,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(75,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(76,21): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(76,24): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(76,27): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(257,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(258,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(590,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(590,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(590,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(592,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(592,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(592,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(592,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(594,123): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(594,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(594,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(594,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(598,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(598,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(598,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(598,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adria\Desktop\VS\PhysicsSimulator\PhysicsSimulator\main.cpp(850,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PhysicsSimulator.vcxproj -> C:\Users\adria\Desktop\VS\PhysicsSimulator\x64\Debug\PhysicsSimulator.exe
